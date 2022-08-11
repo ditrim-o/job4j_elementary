@@ -23,7 +23,4 @@ class ConverterTest {
         Assertions.assertEquals(expected, out, eps);
     }
 
-    @Test
-    void main() {
-    }
 }
