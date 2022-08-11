@@ -18,7 +18,7 @@ class X2Test {
     }
 
     @Test
-    public void whenA1B1C1X1Then40(){
+    public void whenA1B1C1X1Then40() {
         int a = 1;
         int b = 1;
         int c = 1;
@@ -29,7 +29,7 @@ class X2Test {
     }
 
     @Test
-    public void whenA0B1C1X1Then40(){
+    public void whenA0B1C1X1Then40() {
         int a = 0;
         int b = 1;
         int c = 1;
@@ -40,7 +40,7 @@ class X2Test {
     }
 
     @Test
-    public void whenA1B1C0X1Then40(){
+    public void whenA1B1C0X1Then40() {
         int a = 1;
         int b = 1;
         int c = 0;

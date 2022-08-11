@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class FitTest {
+public class FitTest {
     @Test
     public void whenMan180Then92() {
         short in = 180;
