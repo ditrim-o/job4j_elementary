@@ -51,7 +51,7 @@ class X2Test {
     }
 
     @Test
-    public void whenA1B1C1X0Then40(){
+    public void whenA1B1C1X0Then40() {
         int a = 1;
         int b = 1;
         int c = 1;
