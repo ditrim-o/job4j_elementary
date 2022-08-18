@@ -19,6 +19,6 @@ public class MathCalculator {
     }
 
     public static void main(String[] args) {
-        System.out.println("Результат расчёта равен: " + sumAndMultiply(10, 20));
+        System.out.println("Р РµР·СѓР»СЊС‚Р°С‚ СЂР°СЃС‡С‘С‚Р° СЂР°РІРµРЅ: " + sumAndMultiply(10, 20));
     }
 }
