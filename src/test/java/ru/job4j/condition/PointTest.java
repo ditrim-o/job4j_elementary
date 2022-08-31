@@ -42,4 +42,13 @@ public class PointTest {
         assertEquals(expected, out, 0.01);
     }
 
+    @Test
+    public void when567to122then7dot55() {
+        double expected = 7.55;
+        Point a = new Point(5, 6, 7);
+        Point b = new Point(1, 2, 2);
+        double out = a.distance3d(b);
+        assertEquals(expected, out, 0.01);
+    }
+
 }
